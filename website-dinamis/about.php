@@ -1,0 +1,2 @@
+<h1>Saya sedang belajar membuat website dinamis</h1>
+<img src="https://th.bing.com/th?q=Programmer+Desktop+Wallpaper+HD&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-ID&cc=ID&setlang=en&adlt=strict&t=1&mw=247" alt="">
