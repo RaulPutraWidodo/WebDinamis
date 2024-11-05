@@ -1,6 +1,7 @@
 # WebDinamis
-| Nama            | Raul Putra Widodo          | 
+| Variable        | Isi                        | 
 |--------------   |----------------------------|
+| Nama            | Raul Putra Widodo          |
 | Nim             | 312310610                  | 
 | Kelas           | TI.23.A.6                  | 
 | Matkul          | Pemrograman Web 1          |
